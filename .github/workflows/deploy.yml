@@ -45,3 +45,5 @@ jobs:
       - name: build(babel->표준js, webpack->압축:프런트), jest(단위테스트) 등등 계속 추가 가능
         working-directory:  ./
         run:  yarn run build
+
+  #test
